@@ -2,7 +2,7 @@
 
 > Modern Todo List Application built with Vanilla JavaScript & Tailwind CSS
 
-[Live Demo]: :>>>>> "https://MohamedKamal100.github.io/Todo-List"
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://MohamedKamal100.github.io/Todo-List)
 
 ## ✨ Features
 
