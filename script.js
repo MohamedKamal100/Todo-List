@@ -49,11 +49,11 @@ class TodoApp {
     });
 
     // Add keyboard shortcuts
-    document.addEventListener('keydown', (e) => {
-      if (e.ctrlKey && e.key === 'Enter') {
-        document.getElementById('taskForm').dispatchEvent(new Event('submit'));
-      }
-    });
+    // document.addEventListener('keydown', (e) => {
+    //   if (e.ctrlKey && e.key === 'Enter') {
+    //     document.getElementById('taskForm').dispatchEvent(new Event('submit'));
+    //   }
+    // });
   }
 
   addTask() {
